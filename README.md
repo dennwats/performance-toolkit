@@ -6,10 +6,9 @@
 
 ## Quick start
 
+```bash
 git clone https://github.com/dennwats/performance-toolkit
-
 cd performance-toolkit
-
 bash src/perf-check.sh
 
 ## Features
