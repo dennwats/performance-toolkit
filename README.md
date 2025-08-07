@@ -17,4 +17,5 @@ bash src/perf-check.sh
 - CPU load alert
 - Disk usage summary
 - Load classification
+- Generates timestamped HTML report in `/tmp` — open in browser for formatted view.
 
